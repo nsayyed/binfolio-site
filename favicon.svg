@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="m-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5C54F5"/><stop offset="1" stop-color="#1AB2D6"/>
+    </linearGradient>
+    <mask id="m-lens"><rect width="1024" height="1024" fill="#fff"/>
+      <circle cx="716.8" cy="737.28" r="177.66" fill="#000"/></mask>
+  </defs>
+  <rect width="1024" height="1024" rx="230.4" fill="url(#m-g)"/>
+  <g fill="#fff" mask="url(#m-lens)">
+    <path fill-rule="evenodd" d="M255.8 368.64h369.04a51.0 51.0 0 0 1 51.0 51.0v328.08a51.0 51.0 0 0 1 -51.0 51.0h-369.04a51.0 51.0 0 0 1 -51.0 -51.0v-328.08a51.0 51.0 0 0 1 51.0 -51.0z M250.88 414.72v337.92h378.88v-337.92z"/>
+    <rect x="163.84" y="256.0" width="552.96" height="122.88" rx="41.0"/>
+    <rect x="337.92" y="471.04" width="204.8" height="61.44" rx="20.0"/>
+  </g>
+  <circle cx="716.8" cy="737.28" r="94.72" fill="none" stroke="#fff" stroke-width="46.08"/>
+  <line x1="800.07" y1="820.55" x2="886.96" y2="907.44" stroke="#fff" stroke-width="69.12" stroke-linecap="round"/></svg>
